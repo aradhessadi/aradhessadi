@@ -1,4 +1,6 @@
 ### Hi there 👋
+i'm arad and i just created a readMe for my profle!
+I study at kharazmi university and work in soroush messenger and maktab sharif bootcamp.
 
 <!--
 **aradhessadi/aradhessadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
